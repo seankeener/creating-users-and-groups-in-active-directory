@@ -1,5 +1,8 @@
+## Watch me do the lab HERE
+https://www.loom.com/share/c1c11cb19b3a42b38848a4c762aed109
+
 # Active Directory Lab Report
-**Date:** November 13, 2025
+
 
 ## Objective
 The objective of this lab was to perform basic Active Directory management tasks within a Windows Server environment.
